@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background: #f9f9f9;
+}
+
+li {
+  list-style: none;
+  padding: 8px;
+  border-bottom: 1px solid #ccc;
+}
+
+.due-soon {
+  background-color: #ffdddd;
+}
